@@ -1,5 +1,5 @@
 # AutoCalypsoBTS.V2
-AutoCalypsoBTS.V2 Powered By Mini0com :) 📱📞
+AutoCalypsoBTS.V2 Powered By Mini0com Alrayane :) 📱📞
 New version dropped AutoCalypsoBTS.V2 – Now with SMPP, USSD Notifications & SMS DDoS by Mini0com
 
 INFO:
