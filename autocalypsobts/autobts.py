@@ -330,7 +330,7 @@ class CalypsoBTSGUI(QMainWindow):
         layout = QVBoxLayout(central_widget)
         layout.setContentsMargins(20, 20, 20, 20)
         
-        title = QLabel("CalypsoBTS.V2 Powered By Mini0com")
+        title = QLabel("CalypsoBTS.V2 Powered By Mini0com Alrayane")
         title.setAlignment(Qt.AlignCenter)
         title.setStyleSheet("""
             QLabel {
