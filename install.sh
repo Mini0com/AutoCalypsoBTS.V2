@@ -21,6 +21,6 @@ Done !
 \e[0m"
 
 echo -e "\e[30;41m
-If you want to  open Active GSM Interceptor 
+If you want to  open AutoCalypsoBTS.V2 
 Use : cd autocalypsobts && sudo python3 autobts.py     
 \e[0m"
