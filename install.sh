@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo -e "\e[30;41m
-Installing Active GSM Interceptor       
+Installing AutoCalypsoBTS.V2        
 \e[0m"
 sleep 3
 pip3 install pyautogui >/dev/null 2>&1
