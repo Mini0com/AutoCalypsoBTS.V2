@@ -723,10 +723,10 @@ class CalypsoBTSGUI(QMainWindow):
 <h3 style='color: #2196F3;'> Communication Features:</h3>
 <p style='margin-left: 20px;'>
 <strong>Test SMS:</strong> Sends test SMS from number 111 to all subscribers<br>
-<strong>SMPP SPAM:</strong> Send SMPP spam messages<br>
-<strong>USSD SPAM:</strong> Send USSD spam messages<br>
+<strong>SMPP SPAM:</strong> Send SMPP spam messages to all subscribers<br>
+<strong>USSD SPAM:</strong> Send USSD spam messages to all subscribers<br>
 <strong>SMS DDOS:</strong> Launch SMS DDOS attack<br>
-<strong>Subscribers:</strong> Shows ID, IMSI, and Phone Numbers<br>
+<strong>Subscribers:</strong> Shows ID, IMSI, MSISDN, IMEI, TMSI, Timestamp, mcc-mnc-type,<br>
 <strong>Console:</strong> Access OpenBSC command interface
 </p>
 
