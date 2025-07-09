@@ -14,6 +14,7 @@ Tshark Catche real-time SMS
 
 Install :
 
+sudo apt install tshark gnome-terminal featherpad git
 git clone https://github.com/Mini0com/AutoCalypsoBTS.V2 && cd AutoCalypsoBTS.V2 && sudo bash install.sh
 
 GUI start :
