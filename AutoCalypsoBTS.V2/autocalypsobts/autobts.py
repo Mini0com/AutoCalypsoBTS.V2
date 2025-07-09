@@ -313,7 +313,7 @@ class SpoofMSISDNDialog(QDialog):
 class CalypsoBTSGUI(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Auto CalypsoBTS.V2 - Professional Edition Powered By Mini0com")
+        self.setWindowTitle("Auto CalypsoBTS.V2 - Professional Edition Powered By Mini0com Alrayane")
         self.setFixedSize(900, 500)  # Increased width to 900
         self.setWindowIcon(QIcon('ico.png'))
         self.current_theme = 'dark'
