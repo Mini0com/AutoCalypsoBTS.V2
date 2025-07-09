@@ -21,6 +21,9 @@ Done !
 \e[0m"
 
 echo -e "\e[30;41m
-If you want to  open AutoCalypsoBTS.V2 
+If you want to  open AutoCalypsoBTS.V2  
 Use : cd autocalypsobts && sudo python3 autobts.py     
+
+just leave me here i'm just an Mini0com ¯\_(ツ)_/¯
 \e[0m"
+
